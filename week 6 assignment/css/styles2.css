@@ -1,0 +1,20 @@
+.cycle-slideshow{
+   margin-top: 50px;
+   display: flex;
+flex-direction: row;
+justify-content: center;
+}
+
+.cycle-slideshow img{
+   border:10px rgb(146, 125, 125) solid;
+   width: 700px;
+   height: auto;
+}
+
+#text-slideshow{
+    width: 30%;
+}
+
+.cycle-slideshow h1{
+    color: palevioletred;
+}
